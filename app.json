@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "plugins": [
+      [
+        "@react-native-tvos/config-tv",
+        {
+          "showVerboseWarnings": true
+        }
+      ]
+    ],
+    "name": "FocusTest",
+    "slug": "FocusTest",
+    "android": {
+      "package": "com.douglowderexpo.FocusTest",
+      "userInterfaceStyle": "automatic"
+    },
+    "ios": {
+      "bundleIdentifier": "com.douglowderexpo.FocusTest",
+      "userInterfaceStyle": "automatic"
+    }
+  }
+}
